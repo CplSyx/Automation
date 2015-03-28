@@ -1,2 +1,2 @@
 # Automation
-Automation
+Home Automation
