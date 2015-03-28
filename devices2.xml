@@ -1,0 +1,22 @@
+<data>
+	<device id="BR">
+		<room>Bedroom</room>
+		<switch id="1">
+			<name>Main Light</name>
+			<status>ON</status>
+		</switch>
+		<switch id="2">
+			<name>Bedside Light</name>
+			<status>OFF</status>
+		</switch>
+		<lastupdate>1234567890</lastupdate>
+	</device>
+	<device id="KT">
+		<room>Kitchen</room>
+		<switch id="1">
+			<name>Counter Light</name>
+			<status>OFF</status>
+		</switch>
+		<lastupdate>1234567890</lastupdate>
+	</device>
+</data>
